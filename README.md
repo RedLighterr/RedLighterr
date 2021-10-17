@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RedLighterr
-- 👀 I’m interested in Software Development and Website Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me? You can reach me by sending an e-mail to mfurkanyuce04@gmail.com
+- 📫 You can reach me by sending an e-mail to mfurkanyuce5@gmail.com
 
 <!---
 RedLighterr/RedLighterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
