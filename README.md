@@ -4,7 +4,7 @@
 - 📫 **You can reach me by sending an e-mail to** ***mfurkanyuce5@gmail.com***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RedLighterr&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RedLighterr&theme=dark&show_icons=false" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedLighterr&theme=dark&layout=compact&langs_count=8&card_width=320" />
