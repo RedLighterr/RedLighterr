@@ -3,6 +3,8 @@
 - 🌱 **I’m currently using C# for game development, ASP.NET for web development.**
 - 📫 **You can reach me by sending an e-mail to** ***mfurkanyuce5@gmail.com***
 
+![gitartwork](gitartwork.svg)
+
 <!---
 RedLighterr/RedLighterr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
