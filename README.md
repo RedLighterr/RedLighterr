@@ -9,8 +9,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedLighterr&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RedLighterr&theme=dark&layout=compact)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=RedLighterr&theme=dark&layout=compact&card_width=320">
+</a>
 
 ![gitartwork](gitartwork.svg)
 
