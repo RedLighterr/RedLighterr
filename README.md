@@ -3,6 +3,8 @@
 - 🌱 **I’m currently using C# for game development, ASP.NET for web development.**
 - 📫 **You can reach me by sending an e-mail to** ***mfurkanyuce5@gmail.com***
 
+[![RedLighterr's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedLighterr)](https://github.com/anuraghazra/github-readme-stats)
+
 ![gitartwork](gitartwork.svg)
 
 <!---
