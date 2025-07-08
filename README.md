@@ -15,7 +15,7 @@
     </a>
   </div>
   <div>
-    <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats" style="padding-top: 15px;">
       <img height=200 align="center" src="https://streak-stats.demolab.com/?user=RedLighterr&theme=dark&layout=compact">
     </a>
   </div>
