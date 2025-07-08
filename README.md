@@ -10,6 +10,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedLighterr&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RedLighterr)](https://git.io/streak-stats)
+
 ![gitartwork](gitartwork.svg)
 
 <!---
