@@ -17,7 +17,7 @@
   <p>&nbsp;</p>
   <div>
     <a href="https://git.io/streak-stats">
-      <img height=200 align="center" src="https://streak-stats.demolab.com/?user=RedLighterr&theme=dark&layout=compact">
+      <img height=200 align="center" src="https://streak-stats.demolab.com/?user=RedLighterr&theme=dark">
     </a>
   </div>
 </div>
